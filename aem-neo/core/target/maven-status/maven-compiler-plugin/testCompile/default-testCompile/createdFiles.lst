@@ -1,0 +1,7 @@
+com\contra\core\models\HelloWorldModelTest.class
+com\contra\core\servlets\SimpleServletTest.class
+com\contra\core\filters\LoggingFilterTest.class
+com\contra\core\testcontext\AppAemContext.class
+com\contra\core\listeners\SimpleResourceListenerTest.class
+com\contra\core\schedulers\SimpleScheduledTaskTest.class
+com\contra\core\testcontext\AppAemContext$1.class

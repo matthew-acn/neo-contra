@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Created-By: Apache Jackrabbit FileVault - Package Maven Plugin 1.1.6
+Build-Jdk-Spec: 11
+Implementation-Title: Neo Contra Version 1.0 - All
+Implementation-Version: 0.0.1-SNAPSHOT
+Content-Package-Type: container
+Content-Package-Id: com.contra:aem-neo.all:0.0.1-SNAPSHOT
+Content-Package-Description: All content package for Neo Contra Version 
+ 1.0
+Content-Package-Roots: /apps/NeoCon-packages,/apps/NeoCon-vendor-package
+ s
+

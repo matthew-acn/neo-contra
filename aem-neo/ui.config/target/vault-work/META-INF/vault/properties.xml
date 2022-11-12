@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Neo Contra Version 1.0 - UI config</comment>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="created">2022-11-08T16:56:18.932Z</entry>
+<entry key="groupId">com.contra</entry>
+<entry key="name">aem-neo.ui.config</entry>
+<entry key="description">UI config package for Neo Contra Version 1.0</entry>
+<entry key="artifactId">aem-neo.ui.config</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">container</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">com.contra</entry>
+</properties>

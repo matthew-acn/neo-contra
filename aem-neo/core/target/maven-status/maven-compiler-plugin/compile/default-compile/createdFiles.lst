@@ -1,0 +1,11 @@
+com\contra\core\filters\LoggingFilter.class
+com\contra\core\schedulers\SimpleScheduledTask$Config.class
+com\contra\core\servlets\SimpleServlet.class
+com\contra\core\filters\package-info.class
+com\contra\core\schedulers\SimpleScheduledTask.class
+com\contra\core\schedulers\package-info.class
+com\contra\core\listeners\package-info.class
+com\contra\core\listeners\SimpleResourceListener.class
+com\contra\core\models\HelloWorldModel.class
+com\contra\core\models\package-info.class
+com\contra\core\servlets\package-info.class

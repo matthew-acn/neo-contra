@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/NeoCon" mode="merge"/>
+    <filter root="/content/NeoCon" mode="merge"/>
+    <filter root="/content/dam/NeoCon/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/NeoCon" mode="merge"/>
+</workspaceFilter>

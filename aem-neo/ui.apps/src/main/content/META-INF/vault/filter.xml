@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/NeoCon/clientlibs"/>
+    <filter root="/apps/NeoCon/components"/>
+    <filter root="/apps/NeoCon/i18n"/>
+</workspaceFilter>

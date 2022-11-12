@@ -1,0 +1,4 @@
+com\contra\it\tests\PublishPageValidationIT.class
+com\contra\it\tests\CreatePageIT.class
+com\contra\it\tests\HtmlUnitClient.class
+com\contra\it\tests\GetPageIT.class
